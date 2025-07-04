@@ -2,11 +2,6 @@
 
 This is a simple e-commerce application built in Java. It allows users to browse products, add them to a shopping cart, and complete the checkout process. The application supports various product types, including shippable and expirable items, and manages customer balances during transactions.
 
-## Table of Contents
-- [Features](#features)
-- [Requirements](#requirements)
-- [Setup and Installation](#setup-and-installation)
-
 ## Features
 
 - **Product Management:** Supports different product types, including shippable and expirable items.
