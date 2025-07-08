@@ -13,3 +13,20 @@ This is a simple e-commerce application built in Java. It allows users to browse
 
 - Java 8 or higher
  
+## Running Program:-
+
+![image](https://github.com/user-attachments/assets/7719997a-4c02-457a-8894-482ac20bb7e0)
+
+![image](https://github.com/user-attachments/assets/11d5804c-aa04-4282-b910-0ec25ff2fe42)
+
+
+![image](https://github.com/user-attachments/assets/e899a5cc-3da6-4458-ba3a-dffdb6082238)
+
+
+![image](https://github.com/user-attachments/assets/59bc1818-f75c-4536-8694-68d8397232a6)
+
+
+
+
+
+
